@@ -3,6 +3,8 @@
 
 # Create headers using print statement
 print ('number\tsquare\tcube')
+
+#Print numbers and the corresponding squares and cubes while formatted
 print (0,'\t',0**2,'\t',0**3)
 print (1,'\t',1**2,'\t',1**3)
 print (2,'\t',2**2,'\t',2**3)
